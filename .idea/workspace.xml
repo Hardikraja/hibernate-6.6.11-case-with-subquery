@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135f8a55-876b-40a6-8d69-cb747a79f175" name="Changes" comment="committing git ignore" />
+    <list default="true" id="135f8a55-876b-40a6-8d69-cb747a79f175" name="Changes" comment="committing POC Project">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,11 +85,20 @@
       <option name="project" value="LOCAL" />
       <updated>1743410468632</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="committing POC Project">
+      <option name="closed" value="true" />
+      <created>1743410656266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743410656266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="committing git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="committing git ignore" />
+    <MESSAGE value="committing POC Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="committing POC Project" />
   </component>
 </project>

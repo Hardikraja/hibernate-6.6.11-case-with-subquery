@@ -5,11 +5,11 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<!--Working With 3.3.5-->
-		<!--<version>3.3.5</version>-->
+		<!--Working Normally With 3.3.5-->
+		<version>3.3.5</version>
 
 		<!--Causing issue with 3.4.4-->
-		<version>3.4.4</version>
+		<!--<version>3.4.4</version>-->
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.test.memory</groupId>
